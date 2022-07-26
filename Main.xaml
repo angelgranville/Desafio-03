@@ -71,6 +71,6 @@
         <OutArgument x:TypeArguments="x:String">[city]</OutArgument>
       </ui:InputDialog.Result>
     </ui:InputDialog>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Warn" Message="[city]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,106" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[city]" />
   </Sequence>
 </Activity>
